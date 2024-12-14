@@ -9,7 +9,7 @@
 .showcase-element {
 	display:inline-block;
 	color:black;
-	padding:40px;
+	padding:0 40px 40px 40px;
 
 }
 .showcase {
@@ -32,5 +32,14 @@
 	background-color:rgb(16,16,16);
 }
 .char{
+	color:orange;
+}
+.over {
+	font-size:32px;
+}
+.rice {
+	height:250px;
+}
+a {
 	color:orange;
 }
